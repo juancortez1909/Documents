@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "AL: Generated Snapshot request",
+            "request": "snapshotInitialize",
+            "type": "al",
+            "environmentType": "Production",
+            "environmentName": "Production",
+            "sessionId": 12705,
+            "breakOnNext": "WebClient",
+            "executionContext": "DebugAndProfile",
+            "tenant": "dbb958fa-5c21-4107-952d-41db12144158"
+        }
+    ]
+}

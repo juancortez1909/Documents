@@ -1,0 +1,39 @@
+{
+    "id": "8a5bdcba-a882-41e5-be2f-ff41b86cddff",
+    "name": "GeneratedProject2",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "F254AD0B-DDF1-4041-A084-D8211866AD77",
+            "name": "Data Masons EDI Model GB",
+            "publisher": "Data Masons",
+            "version": "21.0.1.3"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.5.23489.23968",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

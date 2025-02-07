@@ -1,0 +1,28 @@
+{
+  "id": "30ef8a6e-e5f8-44dc-9e7e-3606e13d3250",
+  "name": "ALProject3",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
