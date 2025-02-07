@@ -12,6 +12,7 @@ table 50117 "Users from API"
         field(2; Name; Text[100])
         {
             DataClassification = ToBeClassified;
+            Caption = 'test';
         }
         field(3; Phone; text[50])
         {
